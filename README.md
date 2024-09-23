@@ -16,7 +16,7 @@ Node.js e o NPM (Node Package Manager) ou Yarn instalados em seu computador
 
 1. Clone o repositório:
 ```
-   git clone https://github.com/moisesjunior45/cadastro-produtos.git
+   git clone https://github.com/moisesjunior45/Cadastro-de-produtos
 ```
 2. Navegue até o diretório do projeto e instale as dependências:
 ```
