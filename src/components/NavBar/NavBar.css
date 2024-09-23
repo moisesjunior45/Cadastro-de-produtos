@@ -1,0 +1,41 @@
+.navbar {
+  box-shadow: 0 2px 23px 0 rgba(0, 0, 0, 0.1), 0 2px 49px 0 rgba(0, 0, 0, 0.06);
+}
+
+a,
+nav button {
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  color: #000;
+  transition: 0.4s;
+  font-size: 1em;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.nav-link.active {
+  color: #faf8fa !important;
+  background-color: #0b5ed7;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+}
+
+a:hover,
+nav button:hover {
+  color: #bbb;
+}
+
+@media (max-width: 400px) {
+  .navbar-brand button {
+    margin-left: 100px;
+  }
+  .navbar-brand, #navbarNav {
+    margin: 0 auto;
+  }
+}

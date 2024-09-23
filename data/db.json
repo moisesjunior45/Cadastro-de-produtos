@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "a05b",
+      "name": "Poco x3 pro",
+      "price": "1699.99"
+    },
+    {
+      "name": "Monitor Alienware",
+      "price": "9.550",
+      "id": "cdb0"
+    },
+    {
+      "id": "568b",
+      "name": "Controle Xbox Séries X",
+      "price": "429.00"
+    }
+  ]
+}

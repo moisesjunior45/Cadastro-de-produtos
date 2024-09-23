@@ -1,0 +1,17 @@
+table .icons {
+  font-size: 20px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+table .icons:hover {
+  color: #aaa;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
